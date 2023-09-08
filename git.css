@@ -1,3 +1,14 @@
 body {
     background-color: lightgreen;
 }
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+p {
+    font-family: "Time New Roman";
+    font-family: 20px;
+    text-align: center;
+}
